@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/my-app/static/js/main.ddfc7daf.chunk.js",
-    "main.js.map": "/my-app/static/js/main.ddfc7daf.chunk.js.map",
+    "main.css": "/my-app/static/css/main.36008e36.chunk.css",
+    "main.js": "/my-app/static/js/main.74a95134.chunk.js",
+    "main.js.map": "/my-app/static/js/main.74a95134.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.87f4f010.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.87f4f010.js.map",
-    "static/js/2.57f40175.chunk.js": "/my-app/static/js/2.57f40175.chunk.js",
-    "static/js/2.57f40175.chunk.js.map": "/my-app/static/js/2.57f40175.chunk.js.map",
+    "static/js/2.62da0874.chunk.js": "/my-app/static/js/2.62da0874.chunk.js",
+    "static/js/2.62da0874.chunk.js.map": "/my-app/static/js/2.62da0874.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.a4f797ab21a9edf47c4b4be3467bd97d.js": "/my-app/precache-manifest.a4f797ab21a9edf47c4b4be3467bd97d.js",
+    "precache-manifest.bcc26f585e93c2c404b3f2765b84b487.js": "/my-app/precache-manifest.bcc26f585e93c2c404b3f2765b84b487.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/my-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.57f40175.chunk.js.LICENSE.txt": "/my-app/static/js/2.57f40175.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg"
+    "static/css/main.36008e36.chunk.css.map": "/my-app/static/css/main.36008e36.chunk.css.map",
+    "static/js/2.62da0874.chunk.js.LICENSE.txt": "/my-app/static/js/2.62da0874.chunk.js.LICENSE.txt",
+    "static/media/earth.jpg": "/my-app/static/media/earth.7cddb76f.jpg",
+    "static/media/fair_clouds_4k.png": "/my-app/static/media/fair_clouds_4k.52539824.png",
+    "static/media/galaxy2.jpg": "/my-app/static/media/galaxy2.2fe8f886.jpg",
+    "static/media/moon.png": "/my-app/static/media/moon.37071536.png",
+    "static/media/nebulia.jpg": "/my-app/static/media/nebulia.6e900d48.jpg",
+    "static/media/smoke.png": "/my-app/static/media/smoke.a7987bab.png"
   },
   "entrypoints": [
     "static/js/runtime-main.87f4f010.js",
-    "static/js/2.57f40175.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ddfc7daf.chunk.js"
+    "static/js/2.62da0874.chunk.js",
+    "static/css/main.36008e36.chunk.css",
+    "static/js/main.74a95134.chunk.js"
   ]
 }
